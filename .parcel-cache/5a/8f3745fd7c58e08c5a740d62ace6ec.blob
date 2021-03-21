@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Document</title>
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="/index.HASH_REF_c24f70f0014864d33425c6145dfaa62b.css"><script src="/index.HASH_REF_062e9a7565ca912a5f7d6b832142d36c.js" defer=""></script>
+	</head>
+	<body>
+		<img src="/logo.HASH_REF_9984a955a9f895fed2947df64b865dfd.svg" alt="Styra Logo">
+		<h1>Styra</h1>
+		<p>
+			We use this tab to make sure you're not going off track, Please
+			don't close it 😊. Don't worry we don't ever store your private
+			data.
+		</p>
+	</body>
+</html>
